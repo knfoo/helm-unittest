@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/helm-unittest/helm-unittest/internal/common"
+	"github.com/helm-unittest/helm-unittest/pkg/unittest/common"
 	. "github.com/helm-unittest/helm-unittest/pkg/unittest/validators"
 	log "github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/assert"

@@ -4,7 +4,7 @@ import (
 	"errors"
 	"reflect"
 
-	"github.com/helm-unittest/helm-unittest/internal/common"
+	"github.com/helm-unittest/helm-unittest/pkg/unittest/common"
 )
 
 type DocumentSelector struct {

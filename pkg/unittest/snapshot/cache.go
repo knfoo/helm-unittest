@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"os"
 
-	"github.com/helm-unittest/helm-unittest/internal/common"
+	"github.com/helm-unittest/helm-unittest/pkg/unittest/common"
 	yaml "gopkg.in/yaml.v3"
 )
 
